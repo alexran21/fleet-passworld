@@ -2,8 +2,8 @@
 
 ## Password Generator
 
-### Purpose
-
 ---
+
+### Purpose
 
 Generates a random password with specified chosen criteria.
